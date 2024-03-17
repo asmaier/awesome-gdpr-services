@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <!-- title -->
 
@@ -13,14 +13,16 @@ A curated list of GDPR compliant services (and software tools)
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/320px-Flag_of_Europe.svg.png" />
 </a>
 
 <!-- description -->
 
 This is a curated list of GDPR compliant services (and software tools) probably mostly useful for companies and people based in the EU.
 
-A GDPR compliant service can only be delivered by a company based in one of the countries that have implemented the GDPR or have a similar law (see the red and blue countries on the following map)
+</div>
+
+A GDPR compliant service can only be delivered by a company based in a country that has implemented the GDPR or has a similar law (see the red and blue countries on the following map)
 
 - https://worldpopulationreview.com/country-rankings/gdpr-countries
 - https://www.gdpradvisor.co.uk/gdpr-countries
@@ -31,6 +33,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 > [!NOTE]
 > The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results.
+
 
 <!-- TOC -->
 
