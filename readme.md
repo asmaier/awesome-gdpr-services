@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- title -->
 
@@ -30,38 +30,33 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - https://noyb.eu/en/new-us-executive-order-unlikely-satisfy-eu-law
 
 > [!NOTE]
-> The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publishing it on one of the GitHub alternatives and try to land ahead of this list in Google or Bing search results.
-
-
-
-
-</div>
+> The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results.
 
 <!-- TOC -->
 
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Version control services](#version-control-services)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Version control services
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Codeberg](https://codeberg.org/)
+- [GitLabHost](https://gitlabhost.com/)
+- [GitLab by Stackhero](https://www.stackhero.io/en/services/GitLab/benefits)
+- [JetBrains Space](https://www.jetbrains.com/space/) 
 
 <!-- END CONTENT -->
 
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
+- https://european-alternatives.eu/
 
 ## Contributing
 
