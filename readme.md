@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome list of GDPR compliant services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/asmaier/awesome-gdpr-services/actions/workflows/lint.yaml/badge.svg)](https://github.com/asmaier/awesome-gdpr-services/actions/workflows/lint.yaml)
+# Awesome List Of GDPR Compliant Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/asmaier/awesome-gdpr-services/actions/workflows/lint.yaml/badge.svg)](https://github.com/asmaier/awesome-gdpr-services/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
