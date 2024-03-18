@@ -32,7 +32,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - https://noyb.eu/en/new-us-executive-order-unlikely-satisfy-eu-law
 
 > [!NOTE]
-> The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results.
+> The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results :wink:
 
 
 <!-- TOC -->
@@ -47,13 +47,45 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 ## Featured (new releases)
 
+## Communication service
+
+- [Element](https://element.io/)
+- [Mattermost by Stackhero](https://www.stackhero.io/en/services/Mattermost/benefits)
+- [Stackfield](https://www.stackfield.com/)
+- [Wire](https://wire.com/)
+
+## File hosting
+
+- [HiDrive by Strato](https://www.strato-hosting.co.uk/cloud-storage/)
+- [pCloud](https://www.pcloud.com/)
+- [tresorit](https://tresorit.com/)
+
+## Instant messaging
+
+- [Threema](https://threema.ch/)
+
+## Search engine
+
+- [Mojeek](https://www.mojeek.com/)
+- [Qwant](https://www.qwant.com/)
+- [Swisscows](https://swisscows.com/)
+
+## Social media
+
+- [Mastodon](https://joinmastodon.org/)
+- [Xing](https://www.xing.com/)
 
 ## Version control services
 
 - [Codeberg](https://codeberg.org/)
 - [GitLabHost](https://gitlabhost.com/)
 - [GitLab by Stackhero](https://www.stackhero.io/en/services/GitLab/benefits)
-- [JetBrains Space](https://www.jetbrains.com/space/) 
+- [JetBrains Space](https://www.jetbrains.com/space/)
+
+## Video conferencing
+
+- [Jitsi Meet by fairmeeting](https://fairmeeting.net/)
+- [OpenTalk by mailbox.org](https://mailbox.org/en/services#video-conferencing)
 
 <!-- END CONTENT -->
 
