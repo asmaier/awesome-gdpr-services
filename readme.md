@@ -47,6 +47,17 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 ## Featured (new releases)
 
+## Cloud providers
+
+- [Exoscale](https://www.exoscale.com/)
+- [Fuga Cloud](https://fuga.cloud/)
+- [IONOS](https://cloud.ionos.co.uk/)
+- [Open Telekom Cloud](https://open-telekom-cloud.com/)
+- [OVHcloud](https://www.ovhcloud.com/)
+- [Scaleway](https://www.scaleway.com/)
+- [StackIT](https://www.stackit.de/)
+- [UpCloud](https://upcloud.com/)
+
 ## Communication service
 
 - [Element](https://element.io/)
@@ -54,15 +65,61 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Stackfield](https://www.stackfield.com/)
 - [Wire](https://wire.com/)
 
+## Email marketing
+
+- [cleverreach](https://www.cleverreach.com/)
+- [rapidmail](https://www.rapidmail.com/)
+
+## Email provider
+
+- [mailbox.org](https://mailbox.org/)
+- [Posteo](https://posteo.de/)
+- [Proton Mail](https://proton.me/)
+- [Tutanota](https://tutanota.com/)
+- [Web.de Email](https://web.de/email)
+- [GMX Email](https://www.gmx.co.uk/mail/)
+
+## ERP Software
+
+- [Moco](https://www.mocoapp.com/)
+- [Sage](https://www.sage.com/)
+
 ## File hosting
 
 - [HiDrive by Strato](https://www.strato-hosting.co.uk/cloud-storage/)
 - [pCloud](https://www.pcloud.com/)
 - [tresorit](https://tresorit.com/)
 
+## HR Software
+
+- [Personio](https://www.personio.com/)
+- [Sage HR](https://www.sage.com/en-gb/sage-business-cloud/hr/)
+
 ## Instant messaging
 
 - [Threema](https://threema.ch/)
+
+## Maps
+
+- [HERE](https://wego.here.com/)
+- [Mapy.cz](https://en.mapy.cz/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [Qwant Map](https://www.qwant.com/maps)
+
+## Office
+
+- [OnlyOffice](https://www.onlyoffice.com/)
+
+## Password managers
+
+- [heylogin](https://www.heylogin.com/)
+- [Proton Pass](https://proton.me/pass)
+- [pCloud Pass](https://www.pcloud.com/pass.html)
+
+## Project management
+
+- [OpenProject](https://www.openproject.org/)
+- [Zenkit Projects](https://zenkit.com/en/projects/)
 
 ## Search engine
 
@@ -74,6 +131,17 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Mastodon](https://joinmastodon.org/)
 - [Xing](https://www.xing.com/)
+
+## Survey tool
+
+- [easyfeedback](https://easy-feedback.com/)
+- [LimeSurvey](https://www.limesurvey.org/)
+- [QuestionStar](https://questionstar.com/)
+- [TypeForm](https://www.typeform.com/)
+
+## Translation services
+
+- [DeepL](https://www.deepl.com/translator)
 
 ## Version control services
 
