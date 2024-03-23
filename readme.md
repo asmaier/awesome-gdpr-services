@@ -39,7 +39,28 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
+- [AI](#ai)
+- [Cloud providers](#cloud-providers)
+- [Communication and instant messaging](#communication-and-instant-messaging)
+- [Email marketing](#email-marketing)
+- [Email provider](#email-provider)
+- [Entity resolution software](#entity-resolution-software)
+- [ERP software](#erp-software)
+- [File hosting](#file-hosting)
+- [HR software](#hr-software)
+- [Low code platform](#low-code-platform)
+- [Maps](#maps)
+- [Office](#office)
+- [Password managers](#password-managers)
+- [Payment Service](#payment-service)
+- [Project management](#project-management)
+- [Search engine](#search-engine)
+- [Sozial media](#social-media)
+- [Survey tool](#survey-tool)
+- [Translation services](#translation-services)
+- [VectorDB](#vectordb)
 - [Version control services](#version-control-services)
+- [Video conferencing](#video-conferencing)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -71,16 +92,16 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [StackIT](https://www.stackit.de/)
 - [UpCloud](https://upcloud.com/)
 
-## Communication service
+## Communication and instant messaging
 
 - [Element](https://element.io/)
 - [Mattermost by Stackhero](https://www.stackhero.io/en/services/Mattermost/benefits)
 - [Stackfield](https://www.stackfield.com/)
-- [Wire](https://wire.com/)
+- [Threema](https://threema.ch/)
 
 ## Email marketing
 
-- [cleverreach](https://www.cleverreach.com/)
+- [cleverreach](https://www.cleverreach.com/en-de/)
 - [rapidmail](https://www.rapidmail.com/)
 
 ## Email provider
@@ -92,14 +113,14 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Web.de Email](https://web.de/email)
 - [GMX Email](https://www.gmx.co.uk/mail/)
 
-## Entity Resolution Software
+## Entity resolution software
 
 - [Tilores](https://tilores.io/)
 
-## ERP Software
+## ERP software
 
 - [Moco](https://www.mocoapp.com/)
-- [Sage](https://www.sage.com/)
+- [Sage](https://www.sage.com/en-gb/)
 
 ## File hosting
 
@@ -107,15 +128,10 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [pCloud](https://www.pcloud.com/)
 - [tresorit](https://tresorit.com/)
 
-## HR Software
+## HR software
 
 - [Personio](https://www.personio.com/)
-- [Sage HR](https://www.sage.com/en-gb/sage-business-cloud/hr/)
-
-## Instant messaging
-
-- [Threema](https://threema.ch/)
-- [Element.io](https://element.io/)
+- [Sage HR](https://www.sage.com/en-gb/sage-business-cloud/hr-v2/)
 
 ## Low code platform
 
