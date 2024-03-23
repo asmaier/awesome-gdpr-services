@@ -47,6 +47,20 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 ## Featured (new releases)
 
+## AI
+
+- [Aleph Alpha](https://aleph-alpha.com/)
+- [Dust](https://dust.tt/)
+- [Eleuther AI](https://www.eleuther.ai/)
+- [Mistral AI](https://mistral.ai/)
+- [Nabla](https://www.nabla.com/)
+- [LEAM AI](https://leam.ai/)
+- [Sana Labs](https://sanalabs.com/assistant)
+- [Silo AI](https://www.silo.ai/)
+- [Stability AI](https://stability.ai/)
+- [Synthesia](https://www.synthesia.io/)
+
+
 ## Cloud providers
 
 - [Exoscale](https://www.exoscale.com/)
@@ -99,6 +113,12 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Threema](https://threema.ch/)
 
+## Low code platform
+
+- [Builder.ai](https://www.builder.ai/)
+- [Nectain](https://nectain.com/)
+- [Ninox](https://ninox.com/)
+
 ## Maps
 
 - [HERE](https://wego.here.com/)
@@ -115,6 +135,13 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [heylogin](https://www.heylogin.com/)
 - [Proton Pass](https://proton.me/pass)
 - [pCloud Pass](https://www.pcloud.com/pass.html)
+
+## Payment service 
+
+- [Ayden](https://www.adyen.com/)
+- [Mollie](https://www.mollie.com/)
+- [Klarna](https://www.klarna.com/)
+- [Unzer](https://www.unzer.com/)
 
 ## Project management
 
@@ -142,6 +169,10 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Translation services
 
 - [DeepL](https://www.deepl.com/translator)
+
+## VectorDB
+
+- [Qdrant](https://qdrant.tech/)
 
 ## Version control services
 
