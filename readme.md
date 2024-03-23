@@ -31,8 +31,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - https://noyb.eu/en/new-us-executive-order-unlikely-satisfy-eu-law
 
-> [!NOTE]
-> The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results :wink:
+**P.S.** The author of this list is aware of the irony of publishing such a list on GitHub. Feel free to fork/clone this list, publish it on one of the GitHub alternatives and try to rank higher with it in Google or Bing search results :wink:
 
 
 <!-- TOC -->
@@ -93,6 +92,10 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Web.de Email](https://web.de/email)
 - [GMX Email](https://www.gmx.co.uk/mail/)
 
+## Entity Resolution Software
+
+- [Tilores](https://tilores.io/)
+
 ## ERP Software
 
 - [Moco](https://www.mocoapp.com/)
@@ -112,9 +115,11 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Instant messaging
 
 - [Threema](https://threema.ch/)
+- [Element.io](https://element.io/)
 
 ## Low code platform
 
+- [Baserow](https://baserow.io/)
 - [Builder.ai](https://www.builder.ai/)
 - [Nectain](https://nectain.com/)
 - [Ninox](https://ninox.com/)
@@ -191,6 +196,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Follow
 
 - https://european-alternatives.eu/
+- https://github.com/tycrek/degoogle
 
 ## Contributing
 
