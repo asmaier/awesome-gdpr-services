@@ -53,10 +53,11 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Office](#office)
 - [Password managers](#password-managers)
 - [Payment service](#payment-service)
-- [Project management](#project-management)
+- [Project management and ticket system](#project-management-and-ticket-system)
 - [Search engine](#search-engine)
 - [Social media](#social-media)
 - [Survey tool](#survey-tool)
+- [Time tracking](#time-tracking)
 - [Translation services](#translation-services)
 - [VectorDB](#vectordb)
 - [Version control services](#version-control-services)
@@ -164,9 +165,12 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Klarna](https://www.klarna.com/)
 - [Unzer](https://www.unzer.com/)
 
-## Project management
+## Project management and ticket system
 
+- [Easyredmine](https://www.easyredmine.com/)
+- [Monday](https://monday.com/)
 - [OpenProject](https://www.openproject.org/)
+- [Taiga](https://taiga.io/)
 - [Zenkit Projects](https://zenkit.com/en/projects/)
 
 ## Search engine
@@ -186,6 +190,11 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [LimeSurvey](https://www.limesurvey.org/)
 - [QuestionStar](https://questionstar.com/)
 - [TypeForm](https://www.typeform.com/)
+
+# Time tracking
+
+- [Kimai](https://www.kimai.cloud/)
+- [Toggl](https://toggl.com/)
 
 ## Translation services
 
