@@ -52,7 +52,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Maps](#maps)
 - [Office](#office)
 - [Password managers](#password-managers)
-- [Payment Service](#payment-service)
+- [Payment service](#payment-service)
 - [Project management](#project-management)
 - [Search engine](#search-engine)
 - [Sozial media](#social-media)
