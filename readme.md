@@ -55,7 +55,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Payment service](#payment-service)
 - [Project management](#project-management)
 - [Search engine](#search-engine)
-- [Sozial media](#social-media)
+- [Social media](#social-media)
 - [Survey tool](#survey-tool)
 - [Translation services](#translation-services)
 - [VectorDB](#vectordb)
