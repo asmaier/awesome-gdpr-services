@@ -22,10 +22,10 @@ This is a curated list of GDPR compliant services (and software tools) probably 
 
 </div>
 
-A GDPR compliant service can only be delivered by a company based in a country that has implemented the GDPR or has a similar law (see the red and blue countries on the following map)
+A GDPR compliant service can only be delivered by a company based in a country that has implemented the GDPR or has a similar law 
 
-- https://worldpopulationreview.com/country-rankings/gdpr-countries
-- https://www.gdpradvisor.co.uk/gdpr-countries
+- https://www.cnil.fr/en/data-protection-around-the-world
+- https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
 
 Most notably this excludes any (cloud) services offered by companies based in the USA. This is caused by the incompatibility of US law with the GDPR, see also
 
@@ -46,6 +46,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Email provider](#email-provider)
 - [Entity resolution software](#entity-resolution-software)
 - [ERP software](#erp-software)
+- [Event scheduling](#event-scheduling)
 - [File hosting](#file-hosting)
 - [HR software](#hr-software)
 - [Low code platform](#low-code-platform)
@@ -62,6 +63,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [VectorDB](#vectordb)
 - [Version control services](#version-control-services)
 - [Video conferencing](#video-conferencing)
+- [Video platforms](#video-platforms)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -123,9 +125,16 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Moco](https://www.mocoapp.com/)
 - [Sage](https://www.sage.com/en-gb/)
 
+## Event scheduling
+
+- [Doodle](https://doodle.com/en/)
+- [Nuudel](https://nuudel.digitalcourage.de/)
+
 ## File hosting
 
+- [Jottacloud](https://www.jottacloud.com/en/)
 - [HiDrive by Strato](https://www.strato-hosting.co.uk/cloud-storage/)
+- [Koofr](https://koofr.eu/)
 - [pCloud](https://www.pcloud.com/)
 - [tresorit](https://tresorit.com/)
 
@@ -150,6 +159,8 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 ## Office
 
+- [CryptPad](https://cryptpad.org/)
+- [Managed NextCloud](https://www.ionos.co.uk/office-solutions/managed-nextcloud-hosting)
 - [OnlyOffice](https://www.onlyoffice.com/)
 
 ## Password managers
@@ -182,6 +193,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Social media
 
 - [Mastodon](https://joinmastodon.org/)
+- [Pixelfed](https://pixelfed.social/)
 - [Xing](https://www.xing.com/)
 
 ## Survey tool
@@ -215,6 +227,10 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Jitsi Meet by fairmeeting](https://fairmeeting.net/)
 - [OpenTalk by mailbox.org](https://mailbox.org/en/services#video-conferencing)
+
+## Video platforms
+
+- [Peertube](https://joinpeertube.org/en_US)
 
 <!-- END CONTENT -->
 
