@@ -111,7 +111,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [mailbox.org](https://mailbox.org/)
 - [Posteo](https://posteo.de/)
 - [Proton Mail](https://proton.me/)
-- [Tutanota](https://tutanota.com/)
+- [Tuta](https://tuta.com/)
 - [Web.de Email](https://web.de/email)
 - [GMX Email](https://www.gmx.co.uk/mail/)
 
