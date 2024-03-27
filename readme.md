@@ -22,10 +22,9 @@ This is a curated list of GDPR compliant services (and software tools) probably 
 
 </div>
 
-A GDPR compliant service can only be delivered by a company based in a country that has implemented the GDPR or has a similar law 
+A GDPR compliant service can only be delivered by a company based in a country that has implemented the GDPR or is recognised by the European commission as providing an adequate protection. See also
 
-- https://www.cnil.fr/en/data-protection-around-the-world
-- https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
+- [Awesome List of GDPR compliant countries](https://github.com/asmaier/awesome-gdpr-countries)
 
 Most notably this excludes any (cloud) services offered by companies based in the USA. This is caused by the incompatibility of US law with the GDPR, see also
 
