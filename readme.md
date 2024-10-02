@@ -53,6 +53,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Office](#office)
 - [Password managers](#password-managers)
 - [Payment service](#payment-service)
+- [PaaS](#paas-platform-as-a-service)
 - [Project management and ticket system](#project-management-and-ticket-system)
 - [Search engine](#search-engine)
 - [Social media](#social-media)
@@ -63,6 +64,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Version control services](#version-control-services)
 - [Video conferencing](#video-conferencing)
 - [Video platforms](#video-platforms)
+- [Web analytics](#web-analytics)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -183,6 +185,12 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Taiga](https://taiga.io/)
 - [Zenkit Projects](https://zenkit.com/en/projects/)
 
+## PaaS (Platform-as-a-service)
+
+- [Koyeb](https://www.koyeb.com/)
+- [Platform.sh](https://platform.sh/)
+- [Sliplane](https://sliplane.io/)
+
 ## Search engine
 
 - [Mojeek](https://www.mojeek.com/)
@@ -221,6 +229,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [GitLabHost](https://gitlabhost.com/)
 - [GitLab by Stackhero](https://www.stackhero.io/en/services/GitLab/benefits)
 - [JetBrains Space](https://www.jetbrains.com/space/)
+- [Sourcehut](https://sourcehut.org/)
 
 ## Video conferencing
 
@@ -230,6 +239,11 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Video platforms
 
 - [Peertube](https://joinpeertube.org/en_US)
+
+## Web analytics
+
+- [Pirsch](https://pirsch.io/)
+- [Plausible](https://plausible.io/)
 
 <!-- END CONTENT -->
 
