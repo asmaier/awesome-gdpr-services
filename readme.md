@@ -51,9 +51,9 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Low code platform](#low-code-platform)
 - [Maps](#maps)
 - [Office](#office)
+- [PaaS](#paas-platform-as-a-service)
 - [Password managers](#password-managers)
 - [Payment service](#payment-service)
-- [PaaS](#paas-platform-as-a-service)
 - [Project management and ticket system](#project-management-and-ticket-system)
 - [Search engine](#search-engine)
 - [Social media](#social-media)
@@ -164,6 +164,12 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Managed NextCloud](https://www.ionos.co.uk/office-solutions/managed-nextcloud-hosting)
 - [OnlyOffice](https://www.onlyoffice.com/)
 
+## PaaS (Platform-as-a-service)
+
+- [Koyeb](https://www.koyeb.com/)
+- [Platform.sh](https://platform.sh/)
+- [Sliplane](https://sliplane.io/)
+
 ## Password managers
 
 - [heylogin](https://www.heylogin.com/)
@@ -184,12 +190,6 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [OpenProject](https://www.openproject.org/)
 - [Taiga](https://taiga.io/)
 - [Zenkit Projects](https://zenkit.com/en/projects/)
-
-## PaaS (Platform-as-a-service)
-
-- [Koyeb](https://www.koyeb.com/)
-- [Platform.sh](https://platform.sh/)
-- [Sliplane](https://sliplane.io/)
 
 ## Search engine
 
