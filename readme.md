@@ -51,7 +51,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Low code platform](#low-code-platform)
 - [Maps](#maps)
 - [Office](#office)
-- [PaaS](#paas-platform-as-a-service)
+- [Platform-as-a-service](#platform-as-a-service)
 - [Password managers](#password-managers)
 - [Payment service](#payment-service)
 - [Project management and ticket system](#project-management-and-ticket-system)
@@ -164,7 +164,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Managed NextCloud](https://www.ionos.co.uk/office-solutions/managed-nextcloud-hosting)
 - [OnlyOffice](https://www.onlyoffice.com/)
 
-## PaaS (Platform-as-a-service)
+## Platform-as-a-service
 
 - [Koyeb](https://www.koyeb.com/)
 - [Platform.sh](https://platform.sh/)
