@@ -173,6 +173,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Password managers
 
 - [heylogin](https://www.heylogin.com/)
+- [Passbolt](https://www.passbolt.com/)
 - [Proton Pass](https://proton.me/pass)
 - [pCloud Pass](https://www.pcloud.com/pass.html)
 
