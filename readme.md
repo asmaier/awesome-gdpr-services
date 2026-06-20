@@ -167,7 +167,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Platform-as-a-service
 
 - [Koyeb](https://www.koyeb.com/)
-- [Platform.sh](https://platform.sh/)
+- [Upsun](https://upsun.com/)
 - [Sliplane](https://sliplane.io/)
 
 ## Password managers
