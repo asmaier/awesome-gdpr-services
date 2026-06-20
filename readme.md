@@ -13,7 +13,7 @@ A curated list of GDPR compliant services (and software tools)
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/320px-Flag_of_Europe.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png" />
 </a>
 
 <!-- description -->
