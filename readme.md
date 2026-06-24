@@ -64,6 +64,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Version control services](#version-control-services)
 - [Video conferencing](#video-conferencing)
 - [Video platforms](#video-platforms)
+- [Virtual Tours Platform](#virtual-tours-platform)
 - [Web analytics](#web-analytics)
 - [Follow](#follow)
 
@@ -240,6 +241,10 @@ Most notably this excludes any (cloud) services offered by companies based in th
 ## Video platforms
 
 - [Peertube](https://joinpeertube.org/en_US)
+
+## Virtual Tours Platform
+
+- [Panorise](https://panorise.de/)
 
 ## Web analytics
 
