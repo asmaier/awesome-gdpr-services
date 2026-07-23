@@ -245,6 +245,8 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Pirsch](https://pirsch.io/)
 - [Plausible](https://plausible.io/)
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
 
 <!-- END CONTENT -->
 
