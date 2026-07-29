@@ -76,6 +76,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Aleph Alpha](https://aleph-alpha.com/)
 - [Dust](https://dust.tt/)
 - [Eleuther AI](https://www.eleuther.ai/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
 - [Mistral AI](https://mistral.ai/)
 - [Nabla](https://www.nabla.com/)
 - [LEAM AI](https://leam.ai/)
