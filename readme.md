@@ -245,6 +245,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Pirsch](https://pirsch.io/)
 - [Plausible](https://plausible.io/)
+- [Statable](https://statable.com/) - Cookieless web analytics operated by a Dutch company with all data processed and stored in the EU, including import of Google Analytics history.
 
 <!-- END CONTENT -->
 
