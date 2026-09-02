@@ -83,6 +83,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Silo AI](https://www.silo.ai/)
 - [Stability AI](https://stability.ai/)
 - [Synthesia](https://www.synthesia.io/)
+- [veronto](https://veronto.de) - Privacy software for pseudonymising and redacting personal data and trade secrets in documents and AI workflows.
 
 
 ## Cloud providers
