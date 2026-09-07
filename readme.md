@@ -169,6 +169,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 - [Koyeb](https://www.koyeb.com/)
 - [Upsun](https://upsun.com/)
 - [Sliplane](https://sliplane.io/)
+- [sota.io](https://sota.io/) - EU-native managed PaaS on Hetzner Germany infrastructure, no US parent company or CLOUD Act exposure, git-push deploy for any language with managed PostgreSQL included.
 
 ## Password managers
 
