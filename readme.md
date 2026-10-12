@@ -236,6 +236,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Jitsi Meet by fairmeeting](https://fairmeeting.net/)
 - [OpenTalk by mailbox.org](https://mailbox.org/en/services#video-conferencing)
+- [Airtape](https://airtape.co/) - Browser-based remote recording studio; audio and video are recorded locally on each participant's device and the files are stored on EU servers.
 
 ## Video platforms
 
