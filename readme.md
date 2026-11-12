@@ -245,6 +245,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Pirsch](https://pirsch.io/)
 - [Plausible](https://plausible.io/)
+- [Nvivio](https://nvivio.com/) - Cookieless web analytics from Belgium, data in Frankfurt, in all 24 EU languages.
 
 <!-- END CONTENT -->
 
