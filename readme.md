@@ -245,6 +245,7 @@ Most notably this excludes any (cloud) services offered by companies based in th
 
 - [Pirsch](https://pirsch.io/)
 - [Plausible](https://plausible.io/)
+- [Pomelo Analytics](https://www.pomeloanalytics.com/en/) - Web analytics service built in France, with data hosted on AWS Europe (Stockholm).
 
 <!-- END CONTENT -->
 
